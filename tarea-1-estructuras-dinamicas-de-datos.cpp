@@ -1,14 +1,12 @@
 // Ejercicio.
 
-/* Vectores dinámicos. */
+/* Vectores dinÃ¡micos. */
 	
-/* Operadores new y delete consisten en asignar un espacio en memoria para asi no utilizar más del que se necesite
-y no desperdiciar memoria, el new crea el espacio que se necesitará únicamente y retorna la ubicación
+/* Operadores new y delete consisten en asignar un espacio en memoria para asi no utilizar mÃ¡s del que se necesite
+y no desperdiciar memoria, el new crea el espacio que se necesitarÃ¡ Ãºnicamente y retorna la ubicaciÃ³n
 en memoria mientras que el delete libera el espacio utilizado anteriormente con el new */
 	
-// Para el ejemplo crearé un minijuego que de 10 numeros escogerás 3 y si sale alguno el numero específicado por el mismo programa
-// ganarás, y sino perderás, si te salió a la primera consigues 5 puntos, si salió a la segunda 3 puntos y a la tercera 1 punto
-// Si no te sale el número y especifícas que sí, se te restará un punto.
+/* NÃºmeros random, se guardarÃ¡n en vector dinÃ¡mico y mostrarÃ¡ lista de nÃºmeros y el mayor nÃºmero obtenido de la aleartorizaciÃ³n */
 
 // Repositorio de GitHub: https://github.com/CRVPolanco/curso-estructuras-dinamicas-de-datos/
 
